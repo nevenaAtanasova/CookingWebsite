@@ -1,8 +1,8 @@
 <html>
 <head>
-   <title>SET08101 - Web Tech </title>
+   <title>SET08101 - Web Dev </title>
 </head>
 <body>
-   <h1> Hello Web </h1>
+   <h1> Hello Web wowwowooow </h1>
 </body>
 </html>
