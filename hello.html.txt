@@ -1,17 +1,8 @@
 <html>
 <head>
-   <title>SET08101 - Web Dev </title>
+   <title>Hello Napier from Nevena.</title>
 </head>
 <body>
-
 <h3>This is it.<h3>
 </body>
 </html>
-
-I believe that one of those will fit your need
-
-1 - Undo commit and keep all files staged: git reset --soft HEAD~
-
-2 - Undo commit and unstage all files: git reset HEAD~
-
-3 - Undo the commit and completely remove all changes: git reset --hard HEAD~
