@@ -1,0 +1,44 @@
+body {
+    background-color:white;
+}
+header {
+    color:#008E89;
+     text-align:center; 
+     font-family:Georgia,sans-serif; 
+     font-size:2em; 
+     font-weight: bold;
+     padding:8px;
+    }
+nav{
+    background-color: #FFD32D;
+    padding: 10px;
+}
+a{
+    color:#085E7D;
+    font-family: Georgia, serif;
+    padding:8px;
+    font-weight: bold;
+}
+#learn{
+  color: #084594;
+  font-size: 3em;
+  text-decoration: underline;
+  
+}
+*{
+    box-sizing:border-box;
+}
+.column{
+    float:left;
+    width:25%;
+    padding: 5px;
+}
+.row{
+    display: flex;
+    text-align: center;
+
+}
+.caption{
+    display:block;
+    font-weight: bold;
+}
